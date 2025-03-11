@@ -1,0 +1,95 @@
+{
+  "CopyTextError": "写入到粘贴板失败",
+  "CopyTextOk": "已写入到粘贴板",
+  "CustomTemplate": "自定义模板",
+  "PresetTemplate": "预设模板",
+  "auth": {
+    "description": "创建者开启了验证，请在下方填入分享码",
+    "form": {
+      "confirm_button": "确认",
+      "confirm_button_loading": "验证中",
+      "input_code": "请输入分享码",
+      "remember_code": "记住分享码"
+    },
+    "title": "需要分享码"
+  },
+  "global": {
+    "error": {
+      "code-10001": "缺少 302 API 密钥",
+      "code-10002": "该工具已禁用/删除，更多请访问 <Gw></Gw>",
+      "code-10003": "网络错误，请稍后重试",
+      "code-10004": "账户余额不足，创建属于自己的工具，更多请访问 <Gw></Gw>",
+      "code-10005": "账户凭证过期，请重新登录",
+      "code-10006": "账户总额度已达上限，更多请访问 <Gw></Gw>",
+      "code-10007": "账户日额度已达上限，更多请访问 <Gw></Gw>",
+      "code-10008": "当前无可用通道，更多请访问 <Gw></Gw>",
+      "code-10009": "不支持当前API功能，更多请访问 <Gw></Gw>",
+      "code-10010": "不支持当前API功能，更多请访问 <Gw></Gw>",
+      "code-10011": "无效的请求",
+      "code-10012": "该免费工具在本小时的额度已达上限，请访问 <Gw></Gw> 生成属于自己的工具",
+      "code-10018": "账户月额度已达上限，更多请访问 <Gw></Gw>",
+      "code-1024": "AI接口连接超时， 请稍后重试或者联系 <Gw></Gw>",
+      "code-default": "未知错误，更多请访问 <Gw></Gw>",
+      "code_invalid": "分享码错误, 更多请访问 302.AI",
+      "copy_failed": "复制失败",
+      "network_error": "网络服务错误, 请查看网络状态或稍后再试!",
+      "not_found": "页面不存在",
+      "tool_deleted": "该工具已删除, 更多请访问 <site>302.AI</site>",
+      "tool_disabled": "该工具已禁用, 更多请访问 <site>302.AI</site>",
+      "unknown_error": "发生未知错误, 请联系客服"
+    },
+    "footer": {
+      "copyright_content": "本项目由<logo></logo>驱动",
+      "copyright_leading": "内容由AI生成，仅供参考"
+    },
+    "header": {
+      "language_switcher": {
+        "switch_language": "切换语言"
+      },
+      "theme_switcher": {
+        "dark": "暗色模式",
+        "light": "亮色模式",
+        "system": "跟随系统",
+        "toggle_theme": "切换主题"
+      },
+      "tool_info": {
+        "description": "当前工具相关信息",
+        "title": "关于",
+        "trigger": {
+          "label": "打开/关闭工具信息弹窗"
+        }
+      }
+    }
+  },
+  "home": {
+    "case": "使用范例",
+    "contentError": "求证内容不能少于50个字符",
+    "deepVerification": "深度求证",
+    "example": "埃菲尔铁塔是一座引人注目的铁格子结构，自豪地矗立在巴黎，最初建于1822年，是一个巨大的日晷，旨在在城市上空投下阴影来标记时间。这座塔由著名建筑师古斯塔夫·埃菲尔设计，高330米，曾是该市第一座天文台。\n\n虽然它以每年接待700多万游客而闻名，但最初巴黎人并不喜欢它。有趣的是，埃菲尔铁塔被用来在阴天的夜晚沿着塞纳河引导船只。",
+    "textareaPlaceholder": "请输入想要求证的内容，不少于50字",
+    "title": "AI 事实求证",
+    "verification": "开始求证",
+    "verificationCompleted": "求证结束",
+    "verificationFailed": "求证失败",
+    "verificationLoading": "求证中"
+  },
+  "records": {
+    "deleteDataError": "删除失败",
+    "noRecord": "暂无求证记录"
+  },
+  "verifyResults": {
+    "CopyTextError": "复制失败",
+    "CopyTextOk": "复制成功",
+    "believable": "可信",
+    "desc": "描述",
+    "informationIsUnreliable": "认为信息来源不可靠",
+    "informationSources": "信息来源",
+    "original_text": "原文",
+    "reVerify": "重新求证当前内容",
+    "refuted": "不可信",
+    "reliableInformation": "认为信息来源可靠",
+    "submitSuggestion": "提交修改建议",
+    "suggestedModifications": "修改建议",
+    "view": "点击查看"
+  }
+}
