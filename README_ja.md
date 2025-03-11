@@ -44,7 +44,7 @@
 - Radix UI
 
 ## 開発とデプロイ
-1. プロジェクトのクローン `git clone https://github.com/302ai/302_prompt_generator`
+1. プロジェクトのクローン `git clone https://github.com/302ai/302_facts_proof`
 2. 依存関係のインストール `npm install`
 3. 302のAPI KEYの設定 .env.exampleを参照
 4. プロジェクトの実行 `npm run dev`

@@ -45,7 +45,7 @@ Enter content, and AI will break down concepts that need to be verified. You can
 - Radix UI
 
 ## Development & Deployment
-1. Clone project `git clone https://github.com/302ai/302_prompt_generator`
+1. Clone project `git clone https://github.com/302ai/302_facts_proof`
 2. Install dependencies `npm install`
 3. Configure 302's API KEY (refer to .env.example)
 4. Run project `npm run dev`
