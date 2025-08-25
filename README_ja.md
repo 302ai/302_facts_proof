@@ -2,13 +2,13 @@
 
 <p align="center">AI事実証拠は、入力内容から検証が必要な概念をAIで分解し、JinaやExaを使用して関連する概念を検索し、その内容の妥当性を検証します。</p>
 
-<p align="center"><a href="https://302.ai/ja/tools/verify/" target="blank"><img src="https://file.302.ai/gpt/imgs/github/20250102/72a57c4263944b73bf521830878ae39a.png" /></a></p >
+<p align="center"><a href="https://302.ai/product/detail/62" target="blank"><img src="https://file.302.ai/gpt/imgs/github/20250102/72a57c4263944b73bf521830878ae39a.png" /></a></p >
 
 <p align="center"><a href="README_zh.md">中文</a> | <a href="README.md">English</a> | <a href="README_ja.md">日本語</a></p>
 
 ![](docs/302_AI_facts_proof_jp.png)
 
-これは[302.AI](https://302.ai/ja/)の[AI 事実証拠](https://302.ai/ja/tools/verify/)のオープンソース版です。
+これは[302.AI](https://302.ai/ja/)の[AI 事実証拠](https://302.ai/product/detail/62)のオープンソース版です。
 302.AIに直接ログインして、コーディング不要で設定不要のオンラインバージョンをご利用いただけます。
 また、このプロジェクトをご自身のニーズに合わせて修正し、302.AIのAPI KEYを設定して独自にデプロイすることも可能です。
 
